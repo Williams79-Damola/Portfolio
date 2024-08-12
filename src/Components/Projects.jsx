@@ -1,6 +1,7 @@
 import React from 'react';
 import ade from '../assets/africa exam.png';
 import eniola from '../assets/payme image.png';
+import kike from '../assets/team image.jpg';
 
 
 
@@ -27,6 +28,14 @@ const projects =[
         technologies: "VELOX Stack",
         image: eniola,
         github: "https://sanlam-12.netlify.app/",
+    },
+
+    {
+        id: 4,
+        name: "Resume",
+        technologies: "VELOX Stack",
+        image: kikeg,
+        github: "https://williams-resume.netlify.app/",
     },
 ]
 
