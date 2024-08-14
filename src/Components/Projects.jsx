@@ -34,7 +34,7 @@ const projects =[
         id: 4,
         name: "Resume",
         technologies: "VELOX Stack",
-        image: kikeg,
+        image: kike,
         github: "https://williams-resume.netlify.app/",
     },
 ]

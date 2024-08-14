@@ -56,8 +56,8 @@ const About = () => {
                     </div>
 
                     <div className='flex items-center'>
-                        <label htmlFor='expertise in natural products' className='w-2/12'>
-                        Expertise in Natural Products
+                        <label htmlFor='Tailwind.css' className='w-2/12'>
+                        Tailwind.css
                         </label>
                         <div className='grow bg-gray-800 rounded-full h-2.5'>
                             <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-8/12'
@@ -65,45 +65,6 @@ const About = () => {
                         </div>
                     </div>
 
-                    <div className='flex items-center'>
-                        <label htmlFor='paint production' className='w-2/12'>
-                        Paint Production
-                        </label>
-                        <div className='grow bg-gray-800 rounded-full h-2.5'>
-                            <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-11/12'
-                            ></div>
-                        </div>
-                    </div>
-
-                    <div className='flex items-center'>
-                        <label htmlFor='installation of software' className='w-2/12'>
-                        Installation of software
-                        </label>
-                        <div className='grow bg-gray-800 rounded-full h-2.5'>
-                            <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-10/12'
-                            ></div>
-                        </div>
-                    </div>
-
-                    <div className='flex items-center'>
-                        <label htmlFor='proficiency in microsoft office' className='w-2/12'>
-                        Proficiency in Microsoft Office
-                        </label>
-                        <div className='grow bg-gray-800 rounded-full h-2.5'>
-                            <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-8/12'
-                            ></div>
-                        </div>
-                    </div>
-
-                    <div className='flex items-center'>
-                        <label htmlFor='knowledge of hardware including scanners and printers' className='w-2/12'>
-                        Knowledge of Hardware, including Scanners and Printers
-                        </label>
-                        <div className='grow bg-gray-800 rounded-full h-2.5'>
-                            <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-8/12'
-                            ></div>
-                        </div>
-                    </div>
                     <div>
                         <div className='mt-12 flex justify-between text-center'>
                             <div>
